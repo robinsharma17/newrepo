@@ -1,7 +1,5 @@
 <html>
-  
-  <object type="image/svg+xml" data="file:///C:/Users/sharm/Desktop/ddd.svg">
-  
-</object>
-  
+
+<img src = "C:\Users\sharm\Desktop">
+
   </html>
